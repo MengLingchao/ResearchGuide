@@ -1,2 +1,2 @@
-# ResearchGuide
-A glance at how to do economic research
+# 如何做好经济学研究
+该项目用于经济学院2020年博士生新老交流会
